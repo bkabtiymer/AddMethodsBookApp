@@ -1,4 +1,4 @@
-package com.company.prime;
+package com.company;
 
 public class Main {
 
